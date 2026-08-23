@@ -7,7 +7,7 @@ i hope you all enjoy it as much as i do, and if you wish to give advice, feel fr
 
 ![spacehaven](./preview.png)
 
-# INSTALLAION
+# INSTALLATION
 ```bash
 omarchy-theme-install https://github.com/themiddlechildreal/omarchy-spacehaven-theme
 ```
